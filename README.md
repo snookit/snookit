@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @snookit
+- 👀 I’m interested in automation, iot ant IT world in general
